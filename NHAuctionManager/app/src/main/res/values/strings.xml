@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">가축시장 업무</string>
+    <string name="str_back_press_info">\'뒤로\'버튼을 한번 더 누르시면 종료됩니다.</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">스마트경매 송출용</string>
+    <string name="kakao_live_id">37924178-ee14-4f8a-9caa-ff858defea7f</string>
+    <string name="kakao_live_key">5f7bc510a5607072e1a648926e7bfe1df6a44dfb800e750a698bf5265469e6ce</string>
+</resources>
